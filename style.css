@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    display: inline-block;
+    background-image: url("https://wallpapers.com/images/hd/white-grey-wolf-animal-bhr5yja7or9m7ldb.jpg");
+    width: 100%;
+    height: 1000px;
+}
+
+.Bigtitle{
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 90px;
+    padding-left: 32px;
+    color: white;
+}
+
+.container2 {
+    background-color: lightgray;
+    height: 1200px;
+    width: 100%;
+}
+.innercontainer1 {  
+    text-align: center;
+}
+
+.Factheader {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color: white;
+
+}
+.factscontainer {
+    text-align: left;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+}
+.bulletpoints{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: white;
+
+}
+.imagecontainer {
+    margin-top: 64px;
+    display: flex;
+    gap: 40px;
+    padding-left: 250px;
+}
+
+#textone{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+#texttwo{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+.container_leopard{
+    display: inline-block;
+    background-image: url("https://images2.alphacoders.com/476/thumb-1920-476023.jpg");
+    width: 100%;
+    height: 1000px;
+    
+
+}
+.leopard_container2 {
+    background-color: whitesmoke;
+    height: 1800px;
+    width: 100%;
+    text-align: center;
+}
+.Factheader_leopard {
+    padding-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.bulletpoints_leopards {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: black;  
+}
+.container_gorilla{
+    display: inline-block;
+    background-image: url("https://wallpapers.com/images/hd/silverback-gorilla-running-through-c96y0furju8x4k6h.jpg ");
+    width: 100%;
+    height: 1000px;
+
+}
